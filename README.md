@@ -6,6 +6,12 @@ The main ideas come from
 
 ## Usage
 
+Requirements
+
+```
+pip install -r requirements.txt
+```
+
 Downloading models  
 
 ```
