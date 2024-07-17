@@ -1,5 +1,3 @@
-import spaces
-
 import os
 import time
 
@@ -135,7 +133,6 @@ def prepare_image(input_image, resolution, hdr):
     condition_image = create_hdr_effect(condition_image, hdr)
     return condition_image
 
-@spaces.GPU
 @timer_func
 def gradio_process_image(input_image, resolution, num_inference_steps, strength, hdr, guidance_scale):
     print("Starting image processing...")
