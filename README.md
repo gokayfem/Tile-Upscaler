@@ -1,3 +1,11 @@
+# [DualView](https://dualview.ai)
+
+## Tools
+
+| Tool | Description |
+|------|-------------|
+| [DualView](https://dualview.ai) | Free side-by-side comparison tool for VLM outputs, images, videos, and AI prompts |
+
 # Image Upscaler with Huggingface Diffusers
 
 The main ideas come from
