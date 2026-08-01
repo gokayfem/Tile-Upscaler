@@ -1,11 +1,3 @@
-# [DualView](https://dualview.ai)
-
-## Tools
-
-| Tool | Description |
-|------|-------------|
-| [DualView](https://dualview.ai) | Free side-by-side comparison tool for VLM outputs, images, videos, and AI prompts |
-
 # Image Upscaler with Huggingface Diffusers
 
 The main ideas come from
@@ -43,3 +35,22 @@ Version 2
 ```
 python TileUpscalerV2.py
 ```
+
+<details>
+<summary><strong>Cite this project</strong></summary>
+
+If Tile-Upscaler supports your work, please cite the software. GitHub also
+provides ready-to-copy APA and BibTeX entries via **Cite this repository**.
+
+```bibtex
+@software{Aydogan_Tile_Upscaler_2024,
+  author = {Aydoğan, Gökay},
+  title  = {Tile-Upscaler},
+  year   = {2024},
+  url    = {https://github.com/gokayfem/Tile-Upscaler}
+}
+```
+
+[ORCID](https://orcid.org/0000-0002-2343-9433) · [Citation metadata](CITATION.cff)
+
+</details>

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Tile-Upscaler in your work, please cite it using the metadata below."
+type: software
+title: "Tile-Upscaler"
+date-released: 2024-07-17
+authors:
+  - family-names: "Aydoğan"
+    given-names: "Gökay"
+    orcid: "https://orcid.org/0000-0002-2343-9433"
+abstract: "A tiled image-upscaling implementation built with Hugging Face Diffusers."
+keywords:
+  - image upscaling
+  - tiled diffusion
+  - Hugging Face Diffusers
+  - ControlNet
+  - generative AI
+license: Apache-2.0
+repository-code: "https://github.com/gokayfem/Tile-Upscaler"
+url: "https://github.com/gokayfem/Tile-Upscaler"
